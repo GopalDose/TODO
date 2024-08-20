@@ -1,0 +1,23 @@
+.inputForm{
+    width: 100%;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+.inputForm input{
+    background: transparent;
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid var(--primary);
+    padding: 5px;
+}
+
+.inputForm button{
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    background-color: tomato;
+    color: var(--light);
+}
